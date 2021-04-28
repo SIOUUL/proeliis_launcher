@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
-  "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "name": "PROELIIS",
+  "version": "1.0.0",
+  "productName": "PROELIIS",
+  "description": "SERVEUR RPG VANILLA",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) et PROELIIS",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/SIOUUL/proeliis_launcher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/SIOUUL/proeliis_launcher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -48,6 +48,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/SIOUUL/proeliis_launcher.git"
   }
 }
