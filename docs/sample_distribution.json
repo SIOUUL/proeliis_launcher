@@ -11,13 +11,13 @@
     "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
     "servers": [
         {
-            "id": "WesterosCraft-1.11.2",
-            "name": "WesterosCraft Production Server",
-            "description": "Main WesterosCraft server. Connect to enter the Realm.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
-            "version": "3.9.4",
-            "address": "mc.westeroscraft.com",
-            "minecraftVersion": "1.11.2",
+            "id": "PROELIIS-1.0.0",
+            "name": "PROELIIS",
+            "description": "Serveur principal du launcher, serveur RPG.",
+            "icon": "https://media.discordapp.net/attachments/815798673388470285/821910109155622932/Illustration_sans_titre.png",
+            "version": "1.0.0",
+            "address": "PLAY.PROELIIS.FR",
+            "minecraftVersion": "1.16.5",
             "discord": {
                 "shortId": "Production",
                 "largeImageText": "WesterosCraft Production Server",
@@ -230,12 +230,12 @@
                 },
                 {
                     "id": "com.westeroscraft:westeroscraftrp:2019-01-21",
-                    "name": "WesterosCraft Resource Pack",
+                    "name": "PROELIIS SERVER PACK",
                     "type": "File",
                     "artifact": {
                         "size": 46999843,
                         "MD5": "309eb9e5296e9f55cfecb7d4058245a4",
-                        "path": "resourcepacks/WesterosCraft.zip",
+                        "path": "resourcepacks/proeliis.zip",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/resourcepacks/WesterosCraft.zip"
                     }
                 },
